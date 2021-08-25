@@ -1,4 +1,4 @@
-# HerzigChess
+# Herzig Chess
 A Herzig Chess game as a GUI-based Java Application. There is no computer player, it can just be a two human player game.
 
 The Arrow Box can only move forward, 1 or 2 steps. If it reaches the end of the board, it turns around and starts heading back the other way. 
